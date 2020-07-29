@@ -1,0 +1,30 @@
+[
+    {
+        "student_id": "7654321",
+        "name": "mdu",
+        "lastname": "mdluli",
+        "age": "25",
+        "curriculum": "math"
+    },
+    {
+        "student_id": "0987654",
+        "name": "mandla",
+        "lastname": "khoza",
+        "age": "33",
+        "curriculum": "math"
+    },
+    {
+        "student_id": "1110111",
+        "name": "sthe",
+        "lastname": "mthembu",
+        "age": "12",
+        "curriculum": "dsf"
+    },
+    {
+        "student_id": "2110112",
+        "name": "mfundo",
+        "lastname": "buthelezi",
+        "age": "25",
+        "curriculum": "boi"
+    }
+]
